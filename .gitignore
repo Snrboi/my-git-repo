@@ -1,2 +1,7 @@
 secret.txt
 *.log
+
+.venv/
+__pycache__/
+*.pyc
+.env
